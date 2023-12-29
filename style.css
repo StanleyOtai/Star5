@@ -1,0 +1,225 @@
+@media only screen and (max-width: 767px){
+body{
+  background-color: lightcyan;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ .head{
+   background-color: darkcyan;
+   border: 1px solid darkcyan;
+   
+   text-align: center;
+   
+ } 
+  
+  h2{
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+  }
+  
+  .img1{
+    padding: 7px;
+    margin-top: 5px;
+    wdith: 200px;
+    height: 300px;
+    border: 1px solid lightcyan;
+    box-shadow: 2px 3px 4px grey;
+      border-radius: 20px 20px 20px 20px;
+  }
+  
+  img{
+    width: 328px;
+    height: 290px;
+      border-radius: 20px 20px 20px 20px;
+  }
+  
+ input{
+   border-color: darkcyan;
+   background-color: aqua;
+   margin-top: 3px;
+   margin-left: 100px;
+   width: 130px;
+   height: 40px;
+   border-radius: 10px 10px 10px 10px;
+   box-shadow: 2px 2px 3px grey;
+   font-size: 20px;
+ } 
+  
+
+  
+.table1{
+  margin-top: 8px;
+  display: inline-block;
+  width: 90%;
+  height:  290px;
+  border: 1px solid lightcyan;
+  padding: 10px;
+  margin-left: 5px;
+  background-color: lightcyan;
+  box-shadow: 2px 3px 4px grey;
+    border-radius: 15px 15px 15px 15px;
+}  
+  
+  
+  .word{
+    
+  }
+  b{
+    padding: 3px;
+    margin-left: 10px;
+    border: 1px solid;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    margin-bottom: 0px;
+    background-color: darkcyan;
+    border-radius: 15px 15px 15px 15px;
+   width: 100px; 
+  }
+  p{
+    margin-top: 2px;
+    padding: 4px;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  video{
+    background-color: black;
+    width: 100%;
+    height: 90%;
+  }
+  
+  .input2{
+    border-color: darkcyan;
+   background-color: aqua;
+   margin-top: 3px;
+   margin-left: 60px;
+   width: 220px;
+   height: 40px;
+   border-radius: 10px 10px 10px 10px;
+   box-shadow: 2px 2px 3px grey;
+  }
+  
+  footer{
+    margin-top: 10px;
+    border: 1px solid;
+    padding: 25px;
+    text-align: center;
+    background-color: darkcyan;
+    color: white;
+  }
+}
+
+@media only screen and (min-width: 768px){
+  body{
+  background-color: lightcyan;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ .head{
+   background-color: darkcyan;
+   border: 1px solid darkcyan;
+   text-align: center;
+   
+ } 
+  
+  h2{
+    font-family: sans-serif;
+    font-size: 120px;
+    color: white;
+  }
+  
+  .img1{
+    padding: 7px;
+    margin-top: 5px;
+    wdith: 200px;
+    height: 450px;
+    border: 1px solid lightcyan;
+    box-shadow: 2px 3px 4px grey;
+      border-radius: 20px 20px 20px 20px;
+  }
+  
+  img{
+    width: 940px;
+    height: 450px;
+      border-radius: 20px 20px 20px 20px;
+  }
+  
+ input{
+   border-color: darkcyan;
+   background-color: aqua;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 300px;
+   width: 330px;
+   height: 60px;
+   border-radius: 30px 30px 30px 30px;
+   box-shadow: 2px 2px 3px grey;
+   font-size: 40px;
+ } 
+  
+
+  
+.table1{
+  margin-top: 8px;
+  display: inline-block;
+  width: 90%;
+  height:  320px;
+  border: 1px solid lightcyan;
+  padding: 10px;
+  margin-left: 40px;
+  background-color: lightcyan;
+  box-shadow: 2px 3px 4px grey;
+    border-radius: 15px 15px 15px 15px;
+}  
+  
+  
+  .word{
+    
+  }
+  b{
+    padding: 3px;
+    margin-left: 10px;
+    border: 1px solid;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    margin-bottom: 3px;
+    background-color: darkcyan;
+    border-radius: 15px 15px 15px 15px;
+   border-width: 10px;
+  }
+  p{
+    margin-top: 2px;
+    padding: 4px;
+    font-size: 50px;
+    text-align: center;
+  }
+  
+  video{
+    background-color: black;
+    width: 100%;
+    height: 90%;
+  }
+  
+  .input2{
+    border-color: darkcyan;
+   background-color: aqua;
+   margin-top: 10px;
+   margin-left: 280px;
+   width: 450px;
+   height: 60px;
+   border-radius: 20px 20px 20px 20px;
+   box-shadow: 2px 2px 3px grey;
+  }
+  
+  footer{
+    margin-top: 10px;
+    border: 1px solid;
+    padding: 25px;
+    text-align: center;
+    background-color: darkcyan;
+    color: white;
+    font-size: 50px;
+  }
+  
+}
